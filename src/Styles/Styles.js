@@ -17,7 +17,6 @@ const styles = StyleSheet.create({
     marginBottom: 10,
     resizeMode: "cover",
     borderRadius: 10,
-    fontFamily: fonts.Spartan,
   },
   nombreProducto: {
     fontSize: 20,
